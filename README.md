@@ -36,6 +36,6 @@ To begin your journey on Nature's Snapshot, follow these simple steps:
 
 ## Contributing
 
-Nature's Snapshot is an open platform that thrives on community participation. We welcome contributions from photographers, nature enthusiasts, and developers alike. If you'd like to contribute to the website's development, suggest new features, report issues, or provide feedback, please visit our GitHub repository [here](https://github.com/naturesnapshot).
+Nature's Snapshot is an open platform that thrives on community participation. We welcome contributions from photographers, nature enthusiasts, and developers alike. If you'd like to contribute to the website's development, suggest new features, report issues, or provide feedback, please visit our GitHub repository [here](https://github.com/anaturephotographywebsite).
 
 We hope that Nature's Snapshot
